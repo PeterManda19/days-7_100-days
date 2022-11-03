@@ -29,7 +29,7 @@ else:
 def endGame():
   while True:
     print()
-    x= input(""""To try again please click Stop on top right page and click Run """)
+    x= input("""To try again please click Stop on top right page and click Run """)
     print()
     continue
 
