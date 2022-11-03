@@ -25,3 +25,14 @@ He is famous for his looks and the phrase 'My man', that he says in my best movi
     print("Fake Fan!")
 else:
   print("Fake Fan!")
+
+def endGame():
+  while True:
+    print()
+    x= input(""""To try again please click Stop on top right page and click Run """)
+    print()
+    continue
+
+
+if __name__ == "__main__":
+  endGame()
